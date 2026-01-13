@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact" height="160"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -41,7 +33,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Profiles
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
