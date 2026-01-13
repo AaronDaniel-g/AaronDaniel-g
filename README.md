@@ -25,8 +25,6 @@
 
 ## 🌐 Social Presence
 
-## 🌐 Social Presence
-
 <p align="left">
   <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
