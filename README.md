@@ -1,56 +1,67 @@
 # Hi 👋, I'm Aaron Daniel G
 
-🎓 **AI & Data Science Student** | 🐍 **Python Learner** | 💡 **Tech Enthusiast**
+🎓 **Artificial Intelligence & Data Science Student**  
+📊 **Aspiring Data Scientist | Python Enthusiast | Problem Solver**
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 First-year **Artificial Intelligence & Data Science** student  
-- 🌱 Currently learning **Python, Data Structures & Algorithms, HTML, CSS, MySQL**  
-- 💻 Practicing coding problems to improve **logic & problem-solving skills**  
-- 🤖 Interested in **AI, Data Science, and Software Development**  
-- 🎯 Goal: Build a strong foundation and grow into a skilled **AI & Data Professional**
 
----
-
-## 🛠️ Skills (Learning & Improving)
-
-- **Programming:** Python  
-- **Web Basics:** HTML, CSS  
-- **Database:** MySQL  
-- **Core Concepts:** DSA (Basics), Problem Solving  
+- 🎓 First-year **AI & Data Science** student  
+- 🐍 Learning **Python**, **Data Structures**, and **SQL**  
+- 📈 Exploring **Data Analysis & Machine Learning fundamentals**  
+- 💻 Practicing coding and logical problem solving consistently  
+- 🎯 Career goal: **AI / Data Scientist**
 
 ---
 
-## 🌐 Social Presence
+## 🧠 Core Skills
 
-<p align="left">
+**Programming & Tools**
+- Python  
+- SQL (MySQL)  
+- HTML, CSS (Basics)  
+- DSA (Beginner)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronDaniel-g&theme=github-compact)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         width="40"
-         height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-         alt="Instagram"
-         width="40"
-         height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
 </p>
 
+---
+
+## 🎯 Current Focus
+
+- Strengthening **Python & SQL**
+- Learning **Machine Learning fundamentals**
+- Building **mini AI & data projects**
+- Maintaining consistent GitHub activity
 
 ---
 
-## 📌 GitHub Goals
-
-- Upload beginner-friendly projects  
-- Practice coding consistently  
-- Track my learning journey  
-- Improve step by step 🚀
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ *Thank you for visiting my profile!*
