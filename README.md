@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 First-year **AI & Data Science** student  
+- 🎓 First-year **AI & Data Science** student at [KAHE](https://kahedu.edu.in)
 - 🐍 Learning **Python**, **DSA**, and **SQL**  
 - 📈 Exploring **Data Analysis & Machine Learning fundamentals**  
 - 💻 Practicing coding consistently to improve logic  
