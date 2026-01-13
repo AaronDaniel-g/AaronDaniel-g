@@ -36,9 +36,16 @@ focused on building strong foundations in programming, data analysis, and proble
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact&theme=default" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&include_all_commits=true&count_private=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact"
+    height="160"
+  />
 </p>
+
 
 ---
 
