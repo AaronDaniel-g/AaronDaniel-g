@@ -37,11 +37,7 @@ focused on building strong foundations in programming, data analysis, and proble
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact"
+    src="https://streak-stats.demolab.com?user=AaronDaniel-g"
     height="160"
   />
 </p>
