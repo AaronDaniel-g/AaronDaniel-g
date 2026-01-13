@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Aaron Daniel G
 
-<!--
-**AaronDaniel-g/AaronDaniel-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI & Data Science Student** | 🐍 **Python Learner** | 💡 **Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 First-year **Artificial Intelligence & Data Science** student  
+- 🌱 Currently learning **Python, Data Structures & Algorithms, HTML, CSS, MySQL**  
+- 💻 Practicing coding problems to improve **logic & problem-solving skills**  
+- 🤖 Interested in **AI, Data Science, and Software Development**  
+- 🎯 Goal: Build a strong foundation and grow into a skilled **AI & Data Professional**
+
+---
+
+## 🛠️ Skills (Learning & Improving)
+
+- **Programming:** Python  
+- **Web Basics:** HTML, CSS  
+- **Database:** MySQL  
+- **Core Concepts:** DSA (Basics), Problem Solving  
+
+---
+
+## 🌐 Social Presence
+
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/aaron-daniel-g-964297376  
+
+- 📸 **Instagram:**  
+  https://www.instagram.com/aaron_daniel_18  
+
+---
+
+## 📌 GitHub Goals
+
+- Upload beginner-friendly projects  
+- Practice coding consistently  
+- Track my learning journey  
+- Improve step by step 🚀
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
