@@ -78,14 +78,12 @@
          alt="SQL" width="45" height="45"/>
   </a>
 </p>
+
+
 ---
-
-
 ## 🎯 Current Focus
 
 - Strengthening **Python & SQL**
-- Learning **Machine Learning basics**
-- Building **mini AI & data projects**
 - Maintaining consistent GitHub activity
 
 ---
