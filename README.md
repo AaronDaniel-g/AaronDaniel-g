@@ -1,15 +1,14 @@
-# Hi 👋, I'm Aaron Daniel G
+# Hi 👋, I'm G Aaron Daniel 
 
 🎓 **Artificial Intelligence & Data Science Student**  
-📊 **Aspiring Data Scientist | Python Learner | Problem Solver**
+📊 **Aspiring AI engineer| Python Learner | Problem Solver**
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 First-year **AI & Data Science** student at [KAHE](https://kahedu.edu.in)
-- 🐍 Learning **Python**, **DSA**, and **SQL**  
-- 📈 Exploring **Data Analysis & Machine Learning fundamentals**  
+- 🐍 Learning **Python** and **DSA**  
 - 💻 Practicing coding consistently to improve logic  
 - 🎯 Goal: Become a skilled **AI / Data Science Professional**
 
@@ -19,7 +18,6 @@
 
 **Programming & Tools**
 - Python  
-- SQL (MySQL)  
 - HTML, CSS (Basics)
 - Data Structures & Algorithms (Beginner)
 
@@ -67,7 +65,7 @@
 ---
 ## 🎯 Current Focus
 
-- Strengthening **Python & SQL**
+- Strengthening **Python**
 - Maintaining consistent GitHub activity
 
 ---
