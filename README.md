@@ -4,7 +4,7 @@ Claude finished the response
 📊 **Aspiring AI engineer| Python Learner | Problem Solver**
 ---
 ## 👨‍💻 About Me
-- 🎓 First-year **AI & Data Science** student at [KAHE](https://kahedu.edu.in)
+- 🎓 Second-year **AI & Data Science** student at [KAHE](https://kahedu.edu.in)
 - 🐍 Learning **Python** and **DSA**  
 - 💻 Practicing coding consistently to improve logic  
 - 🎯 Goal: Become a skilled **AI / Data Science Professional**
@@ -28,6 +28,11 @@ Claude finished the response
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AaronDaniel-g/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
          width="40" height="40"/>
   </a>
 </p>
