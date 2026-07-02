@@ -1,72 +1,51 @@
-<h1 align="center">Hi there, I'm Aaron Daniel 👋</h1>
-
+Hi 👋, I'm G Aaron Daniel
+🎓 **Artificial Intelligence & Data Science Student**  
+📊 **Aspiring AI engineer| Python Learner | Problem Solver**
+---
+## 👨‍💻 About Me
+- 🎓 Second-year **AI & Data Science** student at [KAHE](https://kahedu.edu.in)
+- 🐍 Learning **Python** and **DSA**  
+- 💻 Practicing coding consistently to improve logic  
+- 🎯 Goal: Become a skilled **AI / Data Science Professional**
+---
+## 🧠 Core Skills
+**Programming & Tools**
+- Python  
+- Data Structures & Algorithms (Beginner)
+---
+---
+## 📈 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronDaniel-g&theme=github-compact)
+---
+## 🔗 Profiles
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;Learning+Python+%26+DSA;Aspiring+AI+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaron-daniel-g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/AaronDaniel-g/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/aaron_daniel_18/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         width="40" height="40"/>
   </a>
-  <a href="mailto:aarondaniela294@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </p>
-
 ---
-
-### 🙋‍♂️ About Me
-
-- 🎓 Studying **Artificial Intelligence & Data Science** at Karpagam Academy of Higher Education
-- 🐍 Currently learning **Python** and **Data Structures & Algorithms**
-- 🎯 Long-term goal: becoming a skilled **AI Engineer**
-- 🧩 Practicing problem-solving consistently on **LeetCode**
-- 📫 Reach me at **aarondaniela294@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="tech stack" />
-</p>
-
----
-
-### 📌 Current Focus
-
-- Strengthening Python fundamentals
-- Solving DSA problems regularly on LeetCode
-- Building a strong base for AI/ML concepts
-
----
-
-### 📊 GitHub Stats
-
+## 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronDaniel-g&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronDaniel-g&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaronDaniel-g&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>Thanks for visiting my profile — always open to connecting and learning together.</i></p>
-
+## 🎯 Current Focus
+- Strengthening **Python**
+- Maintaining consistent GitHub activity
+---
+⭐ *Thank you for visiting my GitHub profile!*
