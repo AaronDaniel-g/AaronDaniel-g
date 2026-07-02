@@ -36,7 +36,7 @@ Claude finished the response
          width="40" height="40"/>
   </a>
 </p>
----
+
 
 ## 🛠️ Tools & Technologies
 <p align="center">
