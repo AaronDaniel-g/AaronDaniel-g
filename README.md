@@ -12,7 +12,7 @@ Claude finished the response
 ## 🧠 Core Skills
 **Programming & Tools**
 - Python  
-- HTML, CSS (Basics)
+
 - Data Structures & Algorithms (Beginner)
 ---
 ---
