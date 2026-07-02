@@ -37,6 +37,7 @@ Claude finished the response
   </a>
 </p>
 ---
+
 ## 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
@@ -47,9 +48,13 @@ Claude finished the response
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
+
 ---
+
 ## 🎯 Current Focus
 - Strengthening **Python**
 - Maintaining consistent GitHub activity
+
 ---
+
 ⭐ *Thank you for visiting my GitHub profile!*
