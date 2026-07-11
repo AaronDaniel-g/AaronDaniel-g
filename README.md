@@ -17,6 +17,7 @@
 ## 🧠 Core Skills
 
 ### Programming & Tools
+
 - Python
 - Data Structures & Algorithms (Beginner)
 - Git & GitHub
@@ -36,8 +37,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronDaniel-g&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDaniel-g&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -53,15 +54,15 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376">
+  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/aaron_daniel_18">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AaronDaniel-g/">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AaronDaniel-g/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
   </a>
 </p>
@@ -92,4 +93,4 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thank you for visiting my GitHub profile!**
