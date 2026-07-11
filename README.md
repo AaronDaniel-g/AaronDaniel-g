@@ -1,4 +1,3 @@
-Claude finished the response
 # Hi 👋, I'm G Aaron Daniel 
 🎓 **Artificial Intelligence & Data Science Student**  
 📊 **Aspiring AI engineer| Python Learner | Problem Solver**
