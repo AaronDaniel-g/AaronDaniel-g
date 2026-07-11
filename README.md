@@ -77,16 +77,19 @@ Aspiring AI Engineer • Python Learner • Problem Solver
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aaron_daniel_18">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aarondaniela294@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45"/>
   </a>
 </p>
 
