@@ -87,10 +87,6 @@ Aspiring AI Engineer • Python Learner • Problem Solver
   <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aarondaniela294@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45"/>
-  </a>
 </p>
 
 ---
