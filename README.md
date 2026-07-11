@@ -1,48 +1,57 @@
 <h1 align="center">Hi 👋, I'm G Aaron Daniel</h1>
 
-<h3 align="center">🎓 Artificial Intelligence & Data Science Student</h3>
-<h3 align="center">📊 Aspiring AI Engineer | Python Learner | Problem Solver</h3>
+<h3 align="center">
+Artificial Intelligence & Data Science Student
+</h3>
+
+<p align="center">
+Aspiring AI Engineer • Python Learner • Problem Solver
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Second-year **AI & Data Science** student at [KAHE](https://kahedu.edu.in)
-- 🐍 Learning **Python** and **Data Structures & Algorithms**
-- 💻 Practicing coding consistently to improve problem-solving skills
-- 🎯 Goal: Become a skilled **AI Engineer / Data Science Professional**
+🎓 Second-Year Artificial Intelligence & Data Science Student at KAHE
+
+🐍 Currently learning Python and Data Structures & Algorithms
+
+💡 Interested in Artificial Intelligence, Machine Learning, and Software Development
+
+📈 Consistently improving problem-solving skills through LeetCode
+
+🎯 Goal: Become an AI Engineer and build impactful AI solutions
 
 ---
 
-## 🧠 Core Skills
+## 🛠️ Skills
 
-### Programming & Tools
-
+### Programming
 - Python
-- Data Structures & Algorithms (Beginner)
-- Git & GitHub
+- SQL
+
+### Tools & Technologies
+- Git
+- GitHub
 - MySQL
 - VS Code
 
+### Currently Learning
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Machine Learning Fundamentals
+
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Profile
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AaronDaniel-g?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/AaronDaniel-g?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronDaniel-g&theme=github_dark" />
-</p>
-
----
-
-## 📈 Contribution Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronDaniel-g&theme=github-compact"/>
@@ -50,46 +59,46 @@
 
 ---
 
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronDaniel-g&theme=github_dark"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Solving LeetCode Problems Daily
+- Strengthening Python Fundamentals
+- Learning DSA for Placements
+- Building AI & Data Science Projects
+- Maintaining Consistent GitHub Contributions
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376" target="_blank">
+  <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aaron_daniel_18" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AaronDaniel-g/" target="_blank">
+  <a href="https://leetcode.com/u/AaronDaniel-g/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aaron_daniel_18">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
+### 💭 Quote
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-</p>
+> "Consistency beats intensity. Small progress every day leads to big results."
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Strengthening Python
-- 📚 Learning DSA
-- 💡 Solving LeetCode Problems Daily
-- 📈 Maintaining Consistent GitHub Activity
-- 🤖 Building AI & Data Science Projects
-
----
-
-⭐ **Thank you for visiting my GitHub profile!**
+⭐ Thanks for visiting my profile!
