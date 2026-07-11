@@ -83,10 +83,7 @@ Aspiring AI Engineer • Python Learner • Problem Solver
   <a href="https://www.linkedin.com/in/aaron-daniel-g-964297376">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AaronDaniel-g/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
-  </a>
+  
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/aaron_daniel_18">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
