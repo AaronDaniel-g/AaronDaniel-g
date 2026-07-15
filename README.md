@@ -58,13 +58,6 @@ Aspiring AI Engineer • Python Learner • Problem Solver
 </p>
 
 ---
-
-## 📊 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronDaniel-g&theme=github_dark"/>
-</p>
-
 ---
 
 ## 🚀 Current Focus
